@@ -1,0 +1,14 @@
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#103DiceStatistics\bin\Debug\net6.0\C#103DiceStatistics.exe
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#103DiceStatistics\bin\Debug\net6.0\C#103DiceStatistics.deps.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#103DiceStatistics\bin\Debug\net6.0\C#103DiceStatistics.runtimeconfig.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#103DiceStatistics\bin\Debug\net6.0\C#103DiceStatistics.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#103DiceStatistics\bin\Debug\net6.0\C#103DiceStatistics.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#103DiceStatistics\obj\Debug\net6.0\C#103DiceStatistics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#103DiceStatistics\obj\Debug\net6.0\C#103DiceStatistics.AssemblyInfoInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#103DiceStatistics\obj\Debug\net6.0\C#103DiceStatistics.AssemblyInfo.cs
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#103DiceStatistics\obj\Debug\net6.0\C#103DiceStatistics.csproj.CoreCompileInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#103DiceStatistics\obj\Debug\net6.0\C#103DiceStatistics.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#103DiceStatistics\obj\Debug\net6.0\refint\C#103DiceStatistics.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#103DiceStatistics\obj\Debug\net6.0\C#103DiceStatistics.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#103DiceStatistics\obj\Debug\net6.0\C#103DiceStatistics.genruntimeconfig.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#103DiceStatistics\obj\Debug\net6.0\ref\C#103DiceStatistics.dll
