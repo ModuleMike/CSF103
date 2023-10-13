@@ -1,0 +1,14 @@
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#103ReverseSring\bin\Debug\net6.0\C#103ReverseSring.exe
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#103ReverseSring\bin\Debug\net6.0\C#103ReverseSring.deps.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#103ReverseSring\bin\Debug\net6.0\C#103ReverseSring.runtimeconfig.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#103ReverseSring\bin\Debug\net6.0\C#103ReverseSring.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#103ReverseSring\bin\Debug\net6.0\C#103ReverseSring.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#103ReverseSring\obj\Debug\net6.0\C#103ReverseSring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#103ReverseSring\obj\Debug\net6.0\C#103ReverseSring.AssemblyInfoInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#103ReverseSring\obj\Debug\net6.0\C#103ReverseSring.AssemblyInfo.cs
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#103ReverseSring\obj\Debug\net6.0\C#103ReverseSring.csproj.CoreCompileInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#103ReverseSring\obj\Debug\net6.0\C#103ReverseSring.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#103ReverseSring\obj\Debug\net6.0\refint\C#103ReverseSring.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#103ReverseSring\obj\Debug\net6.0\C#103ReverseSring.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#103ReverseSring\obj\Debug\net6.0\C#103ReverseSring.genruntimeconfig.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#103ReverseSring\obj\Debug\net6.0\ref\C#103ReverseSring.dll
